@@ -12,7 +12,7 @@ Connect to your cloud service provider
    :hidden:
 
    Connect to AWS <aws/get-awstoc>
-   Connect to Azure <azure/azure>
+   Connect to Azure <azure/azure> 
    Connect to GCP <gcp/gcp>
 
 Connect to your cloud service provider to start sending data to Splunk Observability Cloud.
